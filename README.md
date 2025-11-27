@@ -3,5 +3,5 @@
 Grupo:
 - 124106 – Rodrigo Rocha
 - 122624 – Tomás Diogo
-- 122640 – Franchesco Trematerra
+- 122640 – Francesco Trematerra
 - 122648 – Tiago Lopes
